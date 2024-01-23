@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&animation=fadeIn&text=Hello%there!&le%20render&fontSize=80)
 
-![SamsungPay](https://img.shields.io/badge/SamsungPay-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
+![SamsungPay](https://img.shields.io/badge/SamsungPay-a50034.svg?style=for-the-badge&logo=lg&logoColor=black)
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/java-black ?style=for-the-badge&logo=jaca&logoColor=white">
+
 
 ![myname ](https://img.shields.io/badge/myname-FF5722?style=for-the-badge&logo=blogger&logoColor=white)![lee](https://img.shields.io/badge/lee-74aa9c?style=for-the-badge&logo=openai&logoColor=bule) ![jun](https://img.shields.io/badge/jun-FF5722?style=for-the-badge&logo=blogger&logoColor=black)![yeon](https://img.shields.io/badge/yeon-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)
 
